@@ -3,6 +3,8 @@
 ### Project Overview
 Managing and extracting insights from e-commerce data was a significant challenge, especially with diverse datasets comprising customer information, order details, and returned orders. The need for a comprehensive and visually intuitive analytics tool was addressed by creating a Power BI dashboard, consolidating and visualizing key metrics to enable stakeholders to make informed business decisions.
 
+![Ecomm Dashboard](https://github.com/harshalKulat/Ecommerce-Sales-Analytics/assets/156361363/9a7a7cd3-b03d-4421-807a-7264470b3212)
+
 ## Data Sources
 The Primary data set used for this analysis is the "Ecommerce Dataset.xlsx" containing detailed information about each sale made by the company.
 
